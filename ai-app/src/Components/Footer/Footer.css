@@ -1,0 +1,35 @@
+
+.footer{
+    padding: 20px 0px;
+    margin-top: auto;
+}
+
+.footer-input{
+    padding: 10px 0px;
+    display: flex;
+    gap: 10px;
+    align-items: center;
+}
+
+.footer-input-child{
+    min-width: -webkit-fill-available;
+    padding: 15px 10px;
+    border-radius: 5px;
+    border: 2px solid #49557e;
+}
+
+.footer-send{
+    font-size:25px;
+    color: #49557e;
+
+}
+
+.footer-child label{
+    font-size: 16px;
+    color: #49557e;
+    
+}
+
+.footer-input button{
+    border: none;
+}
