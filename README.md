@@ -11,5 +11,3 @@ to sumup this the application has the capability to provide user with a precise 
 , huggingface were the major libraries used.
 
 
-
-....................................................ends.................................................................................................................
